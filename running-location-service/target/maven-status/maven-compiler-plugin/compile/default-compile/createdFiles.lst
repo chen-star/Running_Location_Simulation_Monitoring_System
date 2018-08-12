@@ -1,0 +1,10 @@
+demo/FaultCode.class
+demo/RunningBulkUploadController.class
+demo/Location$GpsStatus.class
+demo/MedicalInfo.class
+demo/LocationRepository.class
+demo/Location$RunnerMovementType.class
+demo/UnitInfo.class
+demo/Location.class
+demo/RunningLocationServiceRestController.class
+demo/RunningLocationServiceApplication.class
